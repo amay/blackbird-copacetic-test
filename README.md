@@ -10,10 +10,22 @@ Use our deploy button to get your own copy of the repository.
 
 This will setup everything needed for running the CMS:
 
-* A new repository in your GitHub account with the code
-* Full Continuous Deployment to Netlify's global CDN network
-* Control users and access with Netlify Identity
-* Manage content with Netlify CMS
+![Stuff](.gitbook/assets/technical-architecture-diagrams.png)
+
+{% tabs %}
+{% tab title="First Tab" %}
+First tab contents
+{% endtab %}
+
+{% tab title="Second Tab" %}
+Second tab contents
+{% endtab %}
+{% endtabs %}
+
+* [ ] A new repository in your GitHub account with the code
+* [ ] Full Continuous Deployment to Netlify's global CDN network
+* [ ] Control users and access with Netlify Identity
+* [ ] Manage content with Netlify CMS
 
 Once the initial build finishes, you can invite yourself as a user. Go to the Identity tab in your new site, click "Invite" and send yourself an invite.
 
